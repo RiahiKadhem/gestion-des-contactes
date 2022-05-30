@@ -1,0 +1,14 @@
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\bin\Debug\Controller.exe.config
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\bin\Debug\Controller.exe
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\bin\Debug\Controller.pdb
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\bin\Debug\05_TP_CSharp.exe
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\bin\Debug\DAL_TP.exe
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\bin\Debug\05_TP_CSharp.pdb
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\bin\Debug\05_TP_CSharp.exe.config
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\bin\Debug\DAL_TP.pdb
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\bin\Debug\DAL_TP.exe.config
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\obj\Debug\Controller.exe
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\Controller\obj\Debug\Controller.pdb

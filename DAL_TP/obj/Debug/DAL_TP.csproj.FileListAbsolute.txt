@@ -1,0 +1,11 @@
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\DAL_TP\bin\Debug\DAL_TP.exe.config
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\DAL_TP\bin\Debug\DAL_TP.exe
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\DAL_TP\bin\Debug\DAL_TP.pdb
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\DAL_TP\bin\Debug\05_TP_CSharp.exe
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\DAL_TP\bin\Debug\05_TP_CSharp.pdb
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\DAL_TP\bin\Debug\05_TP_CSharp.exe.config
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\DAL_TP\obj\Debug\DAL_TP.csprojAssemblyReference.cache
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\DAL_TP\obj\Debug\DAL_TP.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\DAL_TP\obj\Debug\DAL_TP.csproj.CopyComplete
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\DAL_TP\obj\Debug\DAL_TP.exe
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\DAL_TP\obj\Debug\DAL_TP.pdb

@@ -1,0 +1,40 @@
+﻿<Window x:Class="View.Afficher"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:View"
+        mc:Ignorable="d"
+        Title="Afficher" Height="396.4" Width="573.5">
+    <Grid>
+        <Label Content="Affichage des contacts" HorizontalAlignment="Left" Margin="178,3,0,0" VerticalAlignment="Top" Width="230" Height="42" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Recherche par nom :" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" Height="32"/>
+        <Label Content="Recherche par &#xD;&#xA;numero de telephone :" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top" Height="52"/>
+        <TextBox x:Name="txt" HorizontalAlignment="Left" Height="28" Margin="150,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="champ" HorizontalAlignment="Left" Margin="150,215,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged" Height="27" >
+
+            <ComboBoxItem IsSelected="True">selectionner un type de groupement</ComboBoxItem>
+            <ComboBoxItem>Name</ComboBoxItem>
+            <ComboBoxItem>Prenom</ComboBoxItem>
+            <ComboBoxItem>Groupe</ComboBoxItem>
+
+        </ComboBox>
+        <Label Content="grouper par :" HorizontalAlignment="Left" Margin="10,215,0,0" VerticalAlignment="Top" Height="47"/>
+        <Label Content="trier par nom :" HorizontalAlignment="Left" Margin="10,268,0,0" VerticalAlignment="Top" Height="32"/>
+        <RadioButton  Name="oui" GroupName="tri" HorizontalAlignment="Left" Margin="150,275,0,0" VerticalAlignment="Top" Height="19" >
+            Oui
+        </RadioButton>
+        <RadioButton Name="non" GroupName="tri" HorizontalAlignment="Left" Margin="202,275,0,0" VerticalAlignment="Top" Height="19" IsChecked="True">
+            Non
+        </RadioButton>
+        <Button Name="afficher" Content="Afficher" HorizontalAlignment="Left" Margin="282,328,0,0" VerticalAlignment="Top" Width="75" Click="Afficher_Click"/>
+        <Button Name="afficher_tout" Content="Afficher tout" HorizontalAlignment="Left" Margin="374,328,0,0" VerticalAlignment="Top" Width="75" Click="Afficher_tout_Click"/>
+        <Button Name="retour" Content="Retour" HorizontalAlignment="Left" Margin="466,328,0,0" VerticalAlignment="Top" Width="75" Click="Retour_Click"/>
+        <Label Content="Recherche :" HorizontalAlignment="Left" Margin="15,167,0,0" VerticalAlignment="Top" Width="90" Height="33"/>
+        <TextBox IsReadOnly="True" Name="affichage" HorizontalAlignment="Left" Margin="329,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="235" Width="212" VerticalScrollBarVisibility="Visible"/>
+        <RadioButton Name="rnom" GroupName="search" Content="" HorizontalAlignment="Left" Margin="150,71,0,0" VerticalAlignment="Top" IsChecked="true"/>
+        <RadioButton Name="rtel" GroupName="search" Content="" HorizontalAlignment="Left" Margin="150,123,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\05_TP_CSharp\bin\Debug\05_TP_CSharp.exe.config
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\05_TP_CSharp\bin\Debug\05_TP_CSharp.exe
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\05_TP_CSharp\bin\Debug\05_TP_CSharp.pdb
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\05_TP_CSharp\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\05_TP_CSharp\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\05_TP_CSharp\obj\Debug\05_TP_CSharp.exe
+C:\Users\isi.751FJW2\Desktop\isi\d05-e21-juillet-groupe2\05_TP_CSharp\05_TP_CSharp\obj\Debug\05_TP_CSharp.pdb
